@@ -1,16 +1,16 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'MiniLab',
+  tagline: 'A mini lab for technical',
+  url: 'https://minilab-rouge-sigma.now.sh/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Evan Li', // Usually your GitHub org/user name.
+  projectName: 'MiniLab', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'MiniLab',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'MiniLab Logo',
         src: 'img/logo.svg',
       },
       links: [
