@@ -1,5 +1,5 @@
 module.exports = {
-  tiele: 'MiniLab',
+  title: 'MiniLab',
   tagline: 'A mini lab for technical',
   url: 'https://minilab-rouge-sigma.now.sh/',
   baseUrl: '/',
